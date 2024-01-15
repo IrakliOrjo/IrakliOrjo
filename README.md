@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on myself
 - 📫 How to reach me: irakliorjo92@gmail.com
-- 🌱 I’m currently learning: NodeJS
+- 🌱 I’m currently learning: NodeJS / AWS
 
  - ![Codewars](https://github.r2v.ch/codewars?user=Irakliorjo)
 <!--
