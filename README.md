@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on myself
+
 - 📫 How to reach me: irakliorjo92@gmail.com
-- 🌱 I’m currently learning: NodeJS / AWS
+- 🌱 I’m currently learning: AWS
 
  - ![Codewars](https://github.r2v.ch/codewars?user=Irakliorjo)
 <!--
